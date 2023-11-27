@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "bot para discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Matheus Arimura",
+  "license": "ISC"
+}
