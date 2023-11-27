@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O projeto se trata do início de um BOT para Discord, inspirado no vídia da [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini).
+O projeto se trata do início de um BOT para Discord, inspirado no vídeo da [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini).
 
 O projeto precisa de muitas melhorias, mas foi feito apenas para fins de estudo, quem sabe no futuro eu não possa melhorar ele, né?
 
